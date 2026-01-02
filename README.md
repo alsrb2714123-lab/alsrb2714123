@@ -11,7 +11,6 @@
 
 ## 👤 나의 정보
 - 📧 Email : dream1910@naver.com
-- 🧑‍💻 Role : Backend Developer
 
 ---
 
