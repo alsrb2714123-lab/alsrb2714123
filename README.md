@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Main Tech Stack (주력 기술)
+## 🛠 주력 기술 스택
 
 ### 🔹 Backend
 - Spring Boot / MyBatis / JPA
